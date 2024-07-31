@@ -15,4 +15,6 @@
 			<class name="com.inetbanking.testCases.TC_Login_001" />
 		</classes>
 	</test>
+		<listeners></listeners>
+
 </suite> 
